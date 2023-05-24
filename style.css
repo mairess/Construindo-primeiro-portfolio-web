@@ -11,6 +11,10 @@ body{
     background-color: aquamarine;
 }
 
+.skillsList{
+    line-height: 40px;
+}
+
 .operatingSystem{
     font-size:18px;
 }
