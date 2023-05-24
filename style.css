@@ -10,3 +10,29 @@ h1{
 body{
     background-color: aquamarine;
 }
+
+.operatingSystem{
+    font-size:18px;
+}
+
+.shell{
+    font-size:19px;
+}
+.markup{
+    font-size:21px;
+}
+.cascading{
+    font-size:21px;
+}
+.favSkill{
+    font-size:25px;
+}
+.node{
+    font-size:17px;
+}
+.git{
+    font-size:21px;
+}
+.github{
+    font-size:20px;
+}
