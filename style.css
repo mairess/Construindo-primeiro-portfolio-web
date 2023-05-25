@@ -46,3 +46,9 @@ body{
     top: 100px;
     left: 350px;
 }
+
+.myPic{
+    padding: 5px;
+    background-color: beige;
+}
+
