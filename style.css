@@ -52,3 +52,8 @@ body{
     background-color: beige;
 }
 
+.abilitiesDescription{
+    margin: 25px;
+    background-color: beige;
+    padding: 5px;
+}
